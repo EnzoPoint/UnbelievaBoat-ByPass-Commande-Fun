@@ -3,7 +3,7 @@ Ntm = new discord.Client(),
 colors = require('colors'),
 dateFormat = require('dateformat');
 
-Ntm.login("NDk1MzA5MDYxNjk3MzA2NjI5.XaddFw.6drcxJeHCE4upxbvNZBlvFIuFy0")
+Ntm.login("Your Token")
 
 Ntm.on('ready', () => {
 
